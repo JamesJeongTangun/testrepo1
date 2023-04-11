@@ -7,5 +7,3 @@ modify on testbr
 modify on resolveconflict
 
 modify on main
-
-modify on localtest
